@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dani
 - 📖 Software Engineering Student
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently learning html & css
 - 💞️ I’m looking to collaborate on any small project
 
 <!---
